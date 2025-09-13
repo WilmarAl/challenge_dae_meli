@@ -1,3 +1,7 @@
 pandas
-sckit-learn
+numpy
+
 matplotlib
+seaborn
+
+sckit-learn
